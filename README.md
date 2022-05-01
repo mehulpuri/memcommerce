@@ -1,6 +1,7 @@
 # MemCommerce
 Ecommerce Website built using Stripejs, commerce.js and react
 
+![image](https://user-images.githubusercontent.com/76563079/166157571-6ce83132-1b2e-400a-8093-718e7d131a86.png)
 
 ## Installation
 
